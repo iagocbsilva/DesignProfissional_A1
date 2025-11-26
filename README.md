@@ -8,6 +8,6 @@
 - https://github.com/iagocbsilva/desenvolvimento-front-end-para-web.git
 - https://github.com/iagocbsilva/Modelagem-de-banco-de-dados.git
 - https://github.com/iagocbsilva/Algoritimos-e-pensamento-computacional.git
-## portifólio
+## Portifólio
 - https://github.com/iagocbsilva/Portif-lio.git
 
