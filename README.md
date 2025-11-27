@@ -1,5 +1,7 @@
 # Design Profissional A1
 
+ **Repositório dedicado à entrega final da disciplina Design Profissional**
+
 ## 1.Participção em Processo Seletivo
 - [Comprovante de Participação no Processo Seletivo](https://github.com/iagocbsilva/DesignProfissional_A1/blob/53d6ce7854de37b30f46cc00f72d8004f2bc49bc/Processo_Seletivo/print_candidatura.PNG)
 
