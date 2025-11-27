@@ -16,13 +16,10 @@ Aqui você encontra meus primeiros projetos, meus estudos e minha evolução na 
 - Tecnologias: C
 - Link: https://github.com/iagocbsilva/calculadora-em-C..git
 
-# Sobre mim
+Listagem das principais ferramentas e linguagens com as quais eu trabalho:
 
-Iniciante na área de tecnologia
-
-Interesse em desenvolvimento, banco de dados e segurança
-
-Buscando estágio e experiências reais no mercado
+* **Linguagens:** HTML, CSS, JavaScript, C, SQL.
+* **Ferramentas:** Git,VS Code.
 
 # Contato
 
