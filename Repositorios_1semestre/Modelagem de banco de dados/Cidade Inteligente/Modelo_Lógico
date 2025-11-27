@@ -1,0 +1,41 @@
+
+Motorista
+Motorista(
+→ Id_motorista,
+Nome,
+Telefone
+)
+    • PK: Id_motorista
+Estacionamento
+Estacionamento(
+→ Id_estacionamento,
+Nome,
+Endereco
+)
+    • PK: Id_estacionamento
+Vaga
+Vaga(
+→ Id_vaga,
+Numero,
+Estado,
+Id_estacionamento
+)
+    • PK: Id_vaga
+    • FK: Id_estacionamento → Estacionamento(Id_estacionamento)
+Relacionamento
+    • Um Estacionamento possui várias Vagas (1:N).
+Gerencia (Tabela Associativa)
+Gerencia(
+→ Id_motorista,
+→ Id_estacionamento,
+→ Id_vaga
+)
+    • PK composta: (Id_motorista, Id_estacionamento, Id_vaga)
+    • FK1: Id_motorista → Motorista(Id_motorista)
+    • FK2: Id_estacionamento → Estacionamento(Id_estacionamento)
+    • FK3: Id_vaga → Vaga(Id_vaga)
+Relacionamento
+    • Um Motorista pode gerenciar várias Vagas.
+    • Uma Vaga pode ser gerenciada por vários Motoristas.
+    • Associação envolve também o Estacionamento.
+→ N:N entre Motorista e Vaga, com contexto do Estacionamento.
