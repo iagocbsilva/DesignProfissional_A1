@@ -1,10 +1,10 @@
-# 🕰️ Relógios de Luxo --- Website
+#  Relógios de Luxo - Website
 
 Este é um projeto simples de site institucional para uma loja fictícia
-de **relógios de luxo**, contendo páginas informativas, navegação entre
-modelos famosos e um mapa interativo usando **Leaflet.js**.
+de relógios de luxo, contendo páginas informativas, navegação entre
+modelos famosos e um mapa interativo.
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
     /
     ├── index.html
@@ -18,41 +18,41 @@ modelos famosos e um mapa interativo usando **Leaflet.js**.
           ├── jaeger.jpg
           ├── patek.jpg
 
-## 📝 Descrição dos Arquivos
+##  Descrição dos Arquivos
 
 ### index.html
 
-Página principal do site com apresentação, mapa interativo e navegação
+- Página principal do site com apresentação, mapa interativo e navegação
 geral.
 
 ### duometre.html
 
-Página dedicada ao modelo **Duometre Sphérotourbillon Bleu**.
+- Página dedicada ao modelo Duometre Sphérotourbillon Bleu.
 
 ### patek.html
 
-Página dedicada ao **Patek Philippe Platinum World Time**.
+- Página dedicada ao Patek Philippe Platinum World Time.
 
 ### styles.css
 
-Responsável por toda a aparência do site.
+- Responsável por toda a aparência do site.
 
 ### configuracoes.js
 
-Arquivo para configuração do mapa Leaflet.
+- Arquivo para configuração do mapa Leaflet.
 
-## 🚀 Como Executar
+##  Como Executar
 
 1.  Baixe ou clone o repositório.
-2.  Abra qualquer arquivo `.html` no navegador.
-3.  Ou utilize a extensão **Live Server** no VS Code.
+2.  Abra qualquer arquivo html no navegador.
+3.  Ou utilize a extensão Live Server no VS Code.
 
-## 🗺️ Recursos
+##  Recursos
 
 -   Leaflet.js para mapa interativo
 -   HTML + CSS simples e responsivo
 
-## 📌 Melhorias Futuras
+##  Melhorias Futuras
 
 -   Página Carat
 -   Tema escuro
