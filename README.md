@@ -9,7 +9,7 @@
 
 - [Desenvolvimento Front-End para web](https://github.com/iagocbsilva/DesignProfissional_A1/tree/0f2477cb669c1f6f6b88db0549743dc8df36fac7/Repositorios_1semestre/Desenvolvimento%20Front-End%20para%20web)
 
-- [Modelagem de Banco de Dados](https://github.com/iagocbsilva/DesignProfissional_A1/tree/0f07061ab6422057ff2b90618e0dc4f09a2173d1/Repositorios_1semestre/Modelagem%20de%20banco%20de%20dados)
+- [Modelagem de Banco de Dados](https://github.com/iagocbsilva/DesignProfissional_A1/tree/cd8cc761eb40bd8d41aca2a6a7b696297fae9a45/Repositorios_1semestre/Modelagem%20de%20banco%20de%20dados)
 
 - [Algoritimos-Pensamento Computacional](https://github.com/iagocbsilva/DesignProfissional_A1/tree/0f07061ab6422057ff2b90618e0dc4f09a2173d1/Repositorios_1semestre/algoritimo%20e%20pensamento%20computacional)
 
