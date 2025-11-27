@@ -7,7 +7,7 @@
 - [Currículo em LaTeX (PDF)](https://github.com/iagocbsilva/DesignProfissional_A1/blob/7148c5570d2f75950f7daefa2d24edf08c3b98e0/Curriculo/iagocurriulo-LATEX.pdf)
 ## 3. Repositórios Disciplinas
 
-- [Desenvolvimento Front-End para web](https://github.com/iagocbsilva/DesignProfissional_A1/tree/6f1c575a8ce5962cbe206c368826c0bacbeb8888/Repositorios_1semestre/Desenvolvimento%20Front-End%20para%20web)
+- [Desenvolvimento Front-End para web](https://github.com/iagocbsilva/DesignProfissional_A1/tree/0f2477cb669c1f6f6b88db0549743dc8df36fac7/Repositorios_1semestre/Desenvolvimento%20Front-End%20para%20web)
 
 - [Modelagem de Banco de Dados](https://github.com/iagocbsilva/DesignProfissional_A1/tree/0f07061ab6422057ff2b90618e0dc4f09a2173d1/Repositorios_1semestre/Modelagem%20de%20banco%20de%20dados)
 
