@@ -59,3 +59,7 @@ geral.
 -   Banco de dados de produtos
 -   Carrinho de compras
 
+Desenvolvido por
+- Pedro henrique
+- Iago Colt
+- Gabriel Aiás
