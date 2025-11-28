@@ -19,7 +19,7 @@ Aqui você encontra meus primeiros projetos, meus estudos e minha evolução na 
 Listagem das principais ferramentas e linguagens com as quais eu trabalho:
 
 * **Linguagens:** HTML, CSS, JavaScript, C, SQL.
-* **Ferramentas:** GitHub,VS Code.
+* **Ferramentas:** GitHub,VS Code,BrModelo.
 
 # Contato
 
